@@ -3,3 +3,9 @@
 ## ABOUT
 
 jUST A RECORD FOR MY JOURNEY TO CPP :)
+
+## STATUS
+
+Frozen
+
+人一天有48个小时就好了
